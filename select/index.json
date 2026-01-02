@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "泣いてんの？",
+  "base_artist": "KAZALIN",
+  "createdAt": "2026-01-02T09:35:02.906559Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "泣いてんの?",
+      "artist": "KAZALIN",
+      "has_synced": false,
+      "path": "select/pl_01_泣いてんの_KAZALIN.txt"
+    }
+  ]
+}
